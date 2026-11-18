@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+distilbert_category_results/
+distilbert_priority_results/
+fine_tuned_distilbert/
+models/
+results/
+saved_category_model/
+saved_priority_model/
+model.pt
